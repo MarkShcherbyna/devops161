@@ -1,3 +1,4 @@
-#!bin/bash
+#!/bin/bash
+echo "Please enter your name:"
 read "name"
-cat $name
+echo "Hello $name!"
