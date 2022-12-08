@@ -1,3 +1,3 @@
 #!bin/bash
-read file
-cat $file
+read "name"
+cat $name
